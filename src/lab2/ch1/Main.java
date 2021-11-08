@@ -8,7 +8,6 @@ public class Main {
         BoxingMatch boxingMatch = new BoxingMatch(f1, f2);
         System.out.println("Winner: " + boxingMatch.fight());
 
-
     }
 
 }
